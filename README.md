@@ -1,14 +1,14 @@
-# CLINIC BOOKING SYSTEM 
+# EVENTCREATORANDBOOKING 
 
-CLINIC BOOKING SYSTEM is a terminal based application that allow users to book for code clinic slot.
+ EventCreatorAndBooking is a terminal based application that allow users to book for events
 
 # FUNCTIONALITIES
 
-* View calendars
-* Make a booking
-* Volunteer for a slot
-* Cancel booking
-* Cancel Volunteering
+* View available events
+* booking an Event
+* Create Event
+* Cancel Event booking
+* Cancel Event
 
 # TECH BEING USED
 
